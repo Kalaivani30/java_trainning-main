@@ -45,5 +45,5 @@ This repository focuses on practicing and understanding:
 
 ## Author
 
-Thara Sri  
+Kalaivani  
 GitHub: https://github.com/Tharasri78
